@@ -2,6 +2,8 @@
 
 # qb-target (Prodigy-Inspired Redesign)
 
+Designed by ilv-scripts
+
 This is a redesigned and modified version of **qb-target**, focused on a visual and UI overhaul inspired by **Prodigy RP**. All base functionality is preserved, with enhancements aimed at improving user experience and aesthetics.
 
 ## 🔧 Development Notes
