@@ -55,7 +55,7 @@ Config.UIColors = {
     -- Text Color
     TextColor = '#ffffff',
     
-    -- Button Background Color (Gradient from black to blue with opacity)
+    -- Button Background Color (Gradient from black to purple with opacity)
     ButtonBackgroundColor = 'linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(168, 64, 253, 0.8))',
     
     -- Button Border Color
